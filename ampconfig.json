@@ -1,0 +1,19 @@
+{
+  "dataServiceGeneratorVersion": "0.12.7",
+  "appInfo": {
+    "name": "poc-no-db",
+    "description": "Sample application for e-commerce",
+    "version": "hswj705v",
+    "id": "cl32zrwft48231001s6qr9hey50",
+    "url": "https://app.amplication.com/cl32zrwft48231001s6qr9hey50",
+    "settings": {
+      "dbHost": "localhost",
+      "dbName": "",
+      "dbPassword": "admin",
+      "dbPort": 5432,
+      "dbUser": "admin",
+      "appId": "cl32zrwft48231001s6qr9hey50",
+      "authProvider": "Jwt"
+    }
+  }
+}
